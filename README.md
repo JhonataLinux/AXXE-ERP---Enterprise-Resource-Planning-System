@@ -71,15 +71,15 @@ O sistema foi projetado para atender empresas que necessitam de controle integra
 ## Arquitetura
 
 Usuário
-↓
+->
 Frontend (Jinja2)
-↓
+->
 Flask Application
-↓
+->
 Camada de Negócios
-↓
+->
 SQLite Database
-↓
+->
 Relatórios PDF
 
 ---
