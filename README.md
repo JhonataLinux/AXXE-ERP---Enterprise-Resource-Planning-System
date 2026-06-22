@@ -118,6 +118,34 @@ https://www.linkedin.com/in/jhonatan-bernardino-94a5712b2/
 
 <img width="1344" height="597" alt="tela financeiro" src="https://github.com/user-attachments/assets/9ce589e6-380c-4d03-8ae5-c9113eaf55d0" />
 
+--
+## GESTÃO DE CLIENTES
+<img width="1350" height="597" alt="tela de orçamento" src="https://github.com/user-attachments/assets/c2385dee-d537-4b62-aada-f1195ec8c911" />
+
+## GESTÃO DE FORNECEDORES 
+<img width="1350" height="596" alt="tela de orçamento" src="https://github.com/user-attachments/assets/f640bfe7-49c1-4082-8b94-2b49e4191a0e" />
+
+## GESTÃO DE MATERIAIS
+<img width="1346" height="595" alt="image" src="https://github.com/user-attachments/assets/43cd696a-1dae-462f-9c9f-2f2f293ecee1" />
+
+## CONTROLE DE ESTOQUE 
+<img width="1348" height="596" alt="tela de orçamento" src="https://github.com/user-attachments/assets/c1a5f2b4-d39c-403f-a2c8-9fe6bfbc46fe" />
+<img width="1350" height="594" alt="tela de orçamento" src="https://github.com/user-attachments/assets/7fd0a542-365b-4bf7-be29-8853abcd28c2" />
+
+## RELATORIO DE MATERIAS 
+<img width="1348" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/5e2fc8af-3e61-4837-b09d-3108d4095206" />
+
+
+## LANÇAMENTO POR NOTA FISCAL
+<img width="1348" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/48eb20e5-16e8-4fb9-af7c-a494462cc76e" />
+<img width="1346" height="593" alt="tela de orçamento" src="https://github.com/user-attachments/assets/63945f9d-dd72-4311-a0ce-3634b1aa3811" />
+<img width="1359" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/1888b433-2c72-4bcf-b78f-65493db34f2f" />
+
+
+
+
+
+
 
 
 
