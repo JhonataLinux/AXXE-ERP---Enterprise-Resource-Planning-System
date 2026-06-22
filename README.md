@@ -150,9 +150,33 @@ https://www.linkedin.com/in/jhonatan-bernardino-94a5712b2/
 
 <img width="1361" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/d67f2b66-16ec-49fb-8630-62e91e98af08" />
 
+<img width="1356" height="591" alt="tela de orçamento" src="https://github.com/user-attachments/assets/2d86c176-d583-426f-aec3-0dbab28650d5" />
+
 <img width="1045" height="538" alt="tela de orçamento" src="https://github.com/user-attachments/assets/96bc54e4-b6f1-4a5b-904e-737f2a2711c7" />
 
-<img width="1356" height="591" alt="tela de orçamento" src="https://github.com/user-attachments/assets/2d86c176-d583-426f-aec3-0dbab28650d5" />
+## CONTAS A RECEBER
+<img width="1346" height="596" alt="tela de orçamento" src="https://github.com/user-attachments/assets/8171d62c-39d2-4ec6-802a-05400b5bd703" />
+<img width="794" height="537" alt="tela de orçamento" src="https://github.com/user-attachments/assets/f8aaeb3a-5d6e-4df6-a38e-eca273dc9d23" />
+
+## CONTAS A PAGAR 
+<img width="1352" height="597" alt="tela de orçamento" src="https://github.com/user-attachments/assets/85c61ee0-aa84-426b-9068-300ca074172b" />
+<img width="1344" height="513" alt="tela de orçamento" src="https://github.com/user-attachments/assets/abc58f1a-5e3a-4236-b27e-497a174b5b13" />
+
+<img width="794" height="537" alt="tela de orçamento" src="https://github.com/user-attachments/assets/e45a4164-43e8-4670-b2ea-14a2615e5227" />
+
+<img width="1345" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/09e890b9-ca2b-4731-8b73-909fe004bd09" />
+
+<img width="1363" height="508" alt="tela de orçamento" src="https://github.com/user-attachments/assets/05b23f7e-1915-44a4-9863-ee2a1c2737a2" />
+
+<img width="1350" height="594" alt="tela de orçamento" src="https://github.com/user-attachments/assets/13ca5d0a-74ab-4532-b6ff-492f7e379291" />
+
+## AUDITORIA DO SISTEMA
+<img width="1350" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/3cbdfeac-8ec4-4224-b513-7a2c9179003a" />
+
+## GESTAO DE USUARIO 
+<img width="1352" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/155b5209-7c87-419c-b8b4-0f980877e0eb" />
+
+
 
 
 
