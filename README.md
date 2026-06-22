@@ -141,6 +141,19 @@ https://www.linkedin.com/in/jhonatan-bernardino-94a5712b2/
 <img width="1346" height="593" alt="tela de orçamento" src="https://github.com/user-attachments/assets/63945f9d-dd72-4311-a0ce-3634b1aa3811" />
 <img width="1359" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/1888b433-2c72-4bcf-b78f-65493db34f2f" />
 
+## ORÇAMENTOS 
+<img width="1348" height="593" alt="tela de orçamento" src="https://github.com/user-attachments/assets/f1121e41-2678-4421-a498-722cd7a91792" />
+
+<img width="1344" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/e6553678-5e34-429e-9d7d-ddb492ded51d" />
+
+<img width="1348" height="597" alt="tela de orçamento" src="https://github.com/user-attachments/assets/4efa1924-c73c-4b66-9883-05a5bccb61c3" />
+
+<img width="1361" height="595" alt="tela de orçamento" src="https://github.com/user-attachments/assets/d67f2b66-16ec-49fb-8630-62e91e98af08" />
+
+<img width="1045" height="538" alt="tela de orçamento" src="https://github.com/user-attachments/assets/96bc54e4-b6f1-4a5b-904e-737f2a2711c7" />
+
+<img width="1356" height="591" alt="tela de orçamento" src="https://github.com/user-attachments/assets/2d86c176-d583-426f-aec3-0dbab28650d5" />
+
 
 
 
